@@ -28,3 +28,4 @@ jobs:
           push: true
           platforms: linux/amd64,linux/arm64
           tags: ntpusysadm/flask-redis:latest
+          
